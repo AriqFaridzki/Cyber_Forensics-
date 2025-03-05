@@ -94,6 +94,9 @@ OpenStack bukan sekadar hypervisor, tetapi **platform orkestrasi cloud** yang me
 
 ---
 
+[ubuntu LTS 24 LTS](https://mirror.unair.ac.id/ubuntu-cd/noble/)
+[MicroStack](https://opendev.org/x/microstack/src/branch/master)
+
 ## 4. Kesimpulan
 
 Pemilihan alat virtualisasi tergantung pada kebutuhan:
